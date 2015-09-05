@@ -1,0 +1,11 @@
+{
+  "name": "tobiasoberrauch/food",
+  "license": "LGPL",
+  "authors": [
+    {
+      "name": "Tobias Oberrauch",
+      "email": "tobias.oberrauch@grolba.com"
+    }
+  ],
+  "require": {}
+}
